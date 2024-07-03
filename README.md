@@ -1,4 +1,7 @@
 # TDD with RSpec
+[![Build Status](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec.svg?token=cA6Q81fRFCzfUWvccNpP&branch=master)](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec) whre do i put this 
+
+
 
 In this assignment you will use a combination of Acceptance and
 Unit/Functional 
