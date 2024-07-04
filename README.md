@@ -1,5 +1,5 @@
 # TDD with RSpec
-[![Build Status](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec.svg?token=cA6Q81fRFCzfUWvccNpP&branch=master)](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec) whre do i put this 
+[![Build Status](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec.svg?token=cA6Q81fRFCzfUWvccNpP&branch=master)](https://app.travis-ci.com/IWPMCINBA/hw-tdd-rspec) 
 
 
 
